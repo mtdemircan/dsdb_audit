@@ -3,5 +3,6 @@
     "Yükleniyor...": "Loading...",
     "Hostname değiştirildi.": "Hostname has been changed.",
     "Hostname değiştirilirken bir hata oluştu!": "An error occurred while changing the hostname!",
-    "Hostname Değiştir": "Change Hostname"
+    "Hostname Değiştir": "Change Hostname",
+    "dsdb_audit log bilgileri": "dsdb_audit log information"
 }
